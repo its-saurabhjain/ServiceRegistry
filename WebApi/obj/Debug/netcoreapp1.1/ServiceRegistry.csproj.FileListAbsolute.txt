@@ -1,0 +1,9 @@
+C:\Tutorials\Code\ServiceRegistry\bin\Debug\netcoreapp1.1\ServiceRegistry.deps.json
+C:\Tutorials\Code\ServiceRegistry\bin\Debug\netcoreapp1.1\ServiceRegistry.runtimeconfig.json
+C:\Tutorials\Code\ServiceRegistry\bin\Debug\netcoreapp1.1\ServiceRegistry.runtimeconfig.dev.json
+C:\Tutorials\Code\ServiceRegistry\bin\Debug\netcoreapp1.1\ServiceRegistry.dll
+C:\Tutorials\Code\ServiceRegistry\bin\Debug\netcoreapp1.1\ServiceRegistry.pdb
+C:\Tutorials\Code\ServiceRegistry\obj\Debug\netcoreapp1.1\ServiceRegistry.AssemblyInfo.cs
+C:\Tutorials\Code\ServiceRegistry\obj\Debug\netcoreapp1.1\ServiceRegistry.dll
+C:\Tutorials\Code\ServiceRegistry\obj\Debug\netcoreapp1.1\ServiceRegistry.pdb
+C:\Tutorials\Code\ServiceRegistry\obj\Debug\netcoreapp1.1\ServiceRegistry.csprojResolveAssemblyReference.cache

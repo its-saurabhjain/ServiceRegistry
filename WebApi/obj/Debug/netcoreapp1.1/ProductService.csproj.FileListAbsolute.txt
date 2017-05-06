@@ -1,0 +1,8 @@
+C:\Tutorials\Code\Microservice\bin\Debug\netcoreapp1.1\ProductService.deps.json
+C:\Tutorials\Code\Microservice\bin\Debug\netcoreapp1.1\ProductService.runtimeconfig.json
+C:\Tutorials\Code\Microservice\bin\Debug\netcoreapp1.1\ProductService.runtimeconfig.dev.json
+C:\Tutorials\Code\Microservice\bin\Debug\netcoreapp1.1\ProductService.dll
+C:\Tutorials\Code\Microservice\bin\Debug\netcoreapp1.1\ProductService.pdb
+C:\Tutorials\Code\Microservice\obj\Debug\netcoreapp1.1\ProductService.AssemblyInfo.cs
+C:\Tutorials\Code\Microservice\obj\Debug\netcoreapp1.1\ProductService.dll
+C:\Tutorials\Code\Microservice\obj\Debug\netcoreapp1.1\ProductService.pdb
