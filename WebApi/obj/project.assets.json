@@ -9776,17 +9776,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Tutorials\\Code\\Microservice\\ProductService.csproj",
+      "projectUniqueName": "C:\\Tutorials\\Code\\Microservice\\WebApi\\ProductService.csproj",
       "projectName": "ProductService",
-      "projectPath": "C:\\Tutorials\\Code\\Microservice\\ProductService.csproj",
-      "outputPath": "C:\\Tutorials\\Code\\Microservice\\obj\\",
+      "projectPath": "C:\\Tutorials\\Code\\Microservice\\WebApi\\ProductService.csproj",
+      "outputPath": "C:\\Tutorials\\Code\\Microservice\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
-      "files": {
-        "lib/netcoreapp1.1/ProductService.dll": "C:\\Tutorials\\Code\\Microservice\\bin\\placeholder\\netcoreapp1.1\\ProductService.dll"
-      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
@@ -9796,27 +9793,28 @@
     "frameworks": {
       "netcoreapp1.1": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "1.1.1"
-          },
           "Microsoft.AspNetCore": {
             "target": "Package",
             "version": "1.1.1"
-          },
-          "Microsoft.AspNetCore.Mvc": {
-            "target": "Package",
-            "version": "1.1.2"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "1.1.1"
           },
-          "Steeltoe.Discovery.Client": {
+          "Winton.Extensions.Configuration.Consul": {
             "target": "Package",
             "version": "1.0.0"
           },
-          "Winton.Extensions.Configuration.Consul": {
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "1.1.1",
+            "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Mvc": {
+            "target": "Package",
+            "version": "1.1.2"
+          },
+          "Steeltoe.Discovery.Client": {
             "target": "Package",
             "version": "1.0.0"
           }

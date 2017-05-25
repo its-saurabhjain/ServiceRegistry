@@ -1,0 +1,8 @@
+C:\Tutorials\Code\Microservice\WebApiCore\bin\Debug\netcoreapp1.1\WebApiCore.deps.json
+C:\Tutorials\Code\Microservice\WebApiCore\bin\Debug\netcoreapp1.1\WebApiCore.runtimeconfig.json
+C:\Tutorials\Code\Microservice\WebApiCore\bin\Debug\netcoreapp1.1\WebApiCore.runtimeconfig.dev.json
+C:\Tutorials\Code\Microservice\WebApiCore\bin\Debug\netcoreapp1.1\WebApiCore.dll
+C:\Tutorials\Code\Microservice\WebApiCore\bin\Debug\netcoreapp1.1\WebApiCore.pdb
+C:\Tutorials\Code\Microservice\WebApiCore\obj\Debug\netcoreapp1.1\WebApiCore.AssemblyInfo.cs
+C:\Tutorials\Code\Microservice\WebApiCore\obj\Debug\netcoreapp1.1\WebApiCore.dll
+C:\Tutorials\Code\Microservice\WebApiCore\obj\Debug\netcoreapp1.1\WebApiCore.pdb
